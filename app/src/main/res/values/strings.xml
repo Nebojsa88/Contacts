@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="activity_main_toolbar_title">Toolbar Title</string>
+    <string name="activity_settings_name">Settings Activity</string>
+    <string name="fragment_detal_action_add">Add</string>
+    <string name="dialog_about_title">About</string>
+    <string name="dialog_about_yes">OK</string>
+    <string name="dialog_about_no">Cancel</string>
+</resources>
